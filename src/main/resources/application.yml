@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: calculator-ms
+
+slabs:
+  slab:
+    - upper-limit: 200000
+      country: india
+    - lower-limit: 200000
+      upper-limit: 500000
+      rate: 10
+      country: india
+    - lower-limit: 500000
+      upper-limit: 1000000
+      rate: 20
+      country: india
+    - lower-limit: 1000000
+      rate: 30
+      country: india
