@@ -1,12 +1,11 @@
 
-
 # Tax Calculator
 
 Welcome to the repository of **Tax Calculator**!
 
 Tax calculator is a REST microservice created using Spring Boot 2 and Java 8 which accepts JSON payload and implements the following objectives,
 
-<Write a program in java to calculate tax as per below mentioned income slab tax rates.>
+Write a program in java to calculate tax as per below mentioned income slab tax rates.
 
 
 Income Tax Slab - Tax Rate
